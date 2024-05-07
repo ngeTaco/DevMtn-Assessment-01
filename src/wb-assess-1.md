@@ -242,7 +242,8 @@ Write a short description of the following data types:
 **_String_**
 
 ```
-Strings are typically defined by using double or single quotation marks and are simply put words and/or sentences, but can include numbers and special characters.```
+Strings are typically defined by using double or single quotation marks and are simply put words and/or sentences, but can include numbers and special characters.
+```
 
 **_Number_**
 
