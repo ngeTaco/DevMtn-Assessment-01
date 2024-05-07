@@ -242,25 +242,24 @@ Write a short description of the following data types:
 **_String_**
 
 ```
-REPLACE THIS WITH YOUR ANSWER
-```
+Strings are typically defined by using double or single quotation marks and are simply put words and/or sentences, but can include numbers and special characters.```
 
 **_Number_**
 
 ```
-REPLACE THIS WITH YOUR ANSWER
+Numbers do not need to be defined by quotations marks and can be used with mathematical expressions like plus and minus while strings would react differently.
 ```
 
 **_Boolean_**
 
 ```
-REPLACE THIS WITH YOUR ANSWER
+Booleans have two values that do not change and are true and false. A boolean cannot be anything else.
 ```
 
 **_Array_**
 
 ```
-REPLACE THIS WITH YOUR ANSWER
+An array is a type of data for holding multiple values, not limited to, but including additional arrays. Arrays can be thought of as lists of values that can be changed and added to.
 ```
 
 ### B.3. Trace the value of `x`
@@ -283,7 +282,7 @@ completed for you.
 
 ```
 Initial values: y = 0, x = 5
-1:              y = 1, x = ??
-2:              y = 2, x = ??
-3:              y = 3, x = ??
+1:              y = 1, x = 10
+2:              y = 2, x = 15
+3:              y = 3, x = 20
 ```
