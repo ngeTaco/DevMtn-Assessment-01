@@ -219,19 +219,20 @@ outputArgs('hi', 'bye');
 **_What is the purpose of functions?_**
 
 ```
-Functions can be used to create named blocks of code that can be executed/reused later. They help you keep code DRY and maintainable.
+Functions are blocks of code that can take can perform tasks by taking in and returning out values. Functions can be reused multiple times helping keep code clean and readable.
 ```
 
 **_What is the difference between `console.log` and `return`?_**
 
 ```
-REPLACE THIS WITH YOUR ANSWER
+Console.log will surface data to the console's log and allow it to be read, but ultimate cannot be used anywhere. Return, though not immediately able to be read for the user, allows data to be used by other functions.
 ```
 
 **_What's the difference between defining and calling a function?_**
 
 ```
-REPLACE THIS WITH YOUR ANSWER
+Defining a function is the set up for a function by deciding what parameters it needs, if it needs any, and what the function will actually do with the values it takes in, but does not execute the code.
+Calling a function is the actual exection of the code defined within it, calling a function is also the opportunity to define the arguments for the defined parameters.
 ```
 
 ### B.2. Describe these data types.
